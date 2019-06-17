@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79fb382-39c4-4679-b764-044e406aab24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/liuansen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/CHANGES.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/MANIFEST.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/cache/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/cache/middleware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/context_processors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/loader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/middleware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/cache_settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/templates/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/test_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/django_mobile_tests/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/examples/middleware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/requirements/tests.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/runtests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package/django-mobile-master/tox.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thunder/thunder/local_settings_sample.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -406,7 +372,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
       </provider>
