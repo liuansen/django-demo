@@ -7,6 +7,8 @@ from router import router, router_no_slash
 
 urlpatterns = [
     url(r'^accounts/', include('accounts.api_urls')),
+    url(r'we_media/', include('we_media.api_urls')),
+
 ]
 
 urlpatterns += [

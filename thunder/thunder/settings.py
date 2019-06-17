@@ -58,6 +58,7 @@ INSTALLED_APPS = (
     'django_mobile',
     'accounts',
     'common',
+    'we_media',
 )
 
 MIDDLEWARE_CLASSES = (
