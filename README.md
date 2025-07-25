@@ -14,7 +14,7 @@ Welcome to django_demo!
         host: db4free.net
         name: django_demp
         user: tywq_django
-        password: 962464
+        password: 121345
 
 # 启动项目,进入thunder项目根目录thunder/：
     1.如果使用本地MySQL才需要执行以下操作
